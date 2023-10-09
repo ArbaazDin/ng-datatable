@@ -8,7 +8,7 @@
   },
   "keywords": [
     "angular",
-    "angular14",
+    "angular15",
     "angularcli",
     "ivy",
     "ng",
@@ -26,10 +26,10 @@
   },
   "homepage": "https://github.com/PascalHonegger/ng-datatable#readme",
   "peerDependencies": {
-    "@angular/common": "^14.3.0",
-    "@angular/core": "^14.3.0"
+    "@angular/common": "^15.2.10",
+    "@angular/core": "^15.2.10"
   },
   "dependencies": {
-    "tslib": "^2.0.0"
+    "tslib": "^2.3.0"
   }
 }
